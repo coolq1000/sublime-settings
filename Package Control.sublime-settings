@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"A File Icon",
+		"CMake",
+		"Material Theme",
+		"Package Control",
+		"PackageDev",
+		"Pretty JSON",
+		"Terminus",
+	],
+	"in_process_packages":
+	[
+	],
+}
